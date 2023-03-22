@@ -1,4 +1,4 @@
-# Netsec
+# Network & Security
 
 This repository is used to store scripts related to networking and security that automate workflows to make day-to-day work easier.
 
